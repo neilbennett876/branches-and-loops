@@ -1,0 +1,15 @@
+/Users/neil.bennett876/code/c-sharp-branches-loops/bin/Debug/net6.0/BranchesAndLoops
+/Users/neil.bennett876/code/c-sharp-branches-loops/bin/Debug/net6.0/BranchesAndLoops.deps.json
+/Users/neil.bennett876/code/c-sharp-branches-loops/bin/Debug/net6.0/BranchesAndLoops.runtimeconfig.json
+/Users/neil.bennett876/code/c-sharp-branches-loops/bin/Debug/net6.0/BranchesAndLoops.dll
+/Users/neil.bennett876/code/c-sharp-branches-loops/bin/Debug/net6.0/BranchesAndLoops.pdb
+/Users/neil.bennett876/code/c-sharp-branches-loops/obj/Debug/net6.0/BranchesAndLoops.csproj.AssemblyReference.cache
+/Users/neil.bennett876/code/c-sharp-branches-loops/obj/Debug/net6.0/BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil.bennett876/code/c-sharp-branches-loops/obj/Debug/net6.0/BranchesAndLoops.AssemblyInfoInputs.cache
+/Users/neil.bennett876/code/c-sharp-branches-loops/obj/Debug/net6.0/BranchesAndLoops.AssemblyInfo.cs
+/Users/neil.bennett876/code/c-sharp-branches-loops/obj/Debug/net6.0/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/Users/neil.bennett876/code/c-sharp-branches-loops/obj/Debug/net6.0/BranchesAndLoops.dll
+/Users/neil.bennett876/code/c-sharp-branches-loops/obj/Debug/net6.0/refint/BranchesAndLoops.dll
+/Users/neil.bennett876/code/c-sharp-branches-loops/obj/Debug/net6.0/BranchesAndLoops.pdb
+/Users/neil.bennett876/code/c-sharp-branches-loops/obj/Debug/net6.0/BranchesAndLoops.genruntimeconfig.cache
+/Users/neil.bennett876/code/c-sharp-branches-loops/obj/Debug/net6.0/ref/BranchesAndLoops.dll
